@@ -23,7 +23,7 @@
 
 <footer>
 	<p>Created by <a href="https://stilwell.io" target="_blank">Jesse Stilwell</a> and powered by <a
-			href="https://svelte.dev/" target="_blank">Svelte</a>. View on <a
-			href="https://github.com/jstilwell/bigscreen-room-code-speaker" target="_blank">Github</a>.
+			href="https://svelte.dev/" target="_blank">Svelte</a>. Fork on <a
+			href="https://github.com/jstilwell/code-repeater" target="_blank">Github</a>.
 	</p>
 </footer>
