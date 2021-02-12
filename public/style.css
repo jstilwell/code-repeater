@@ -1,0 +1,22 @@
+:root {
+  --border-radius: 5px;
+  --box-shadow: 2px 2px 10px;
+  --color: #0050a0;
+  --color-accent: rgb(255, 255, 255);
+  --color-bg: rgb(231, 231, 231);
+  --color-bg-secondary: rgb(147, 203, 255);
+  --color-secondary: #920de9;
+  --color-secondary-accent: #920de90b;
+  --color-shadow: #4e4e4e;
+  --color-text: rgb(43, 43, 43);
+  --color-text-secondary: #999;
+  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --hover-brightness: 1.2;
+  --justify-important: center;
+  --justify-normal: left;
+  --line-height: 150%;
+  --width-card: 285px;
+  --width-card-medium: 460px;
+  --width-card-wide: 800px;
+  --width-content: 1080px;
+}
