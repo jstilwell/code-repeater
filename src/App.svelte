@@ -10,6 +10,10 @@
 
 <main>
 	<article>
+		<h5>WHAT DOES THIS DO?</h5>
+		<p>It plays anything you want over and over via text to speech. It was designed for use with an app called <a
+				href="https://www.bigscreenvr.com/" target="_blank">Bigscreen VR</a> to make entering room codes easier
+			with a VR helmet on if you have a bad memory.</p>
 		<h5>HOW DO YOU USE THIS?</h5>
 		<p>Place your code in the input field and click <code>SET IT!</code></p>
 		<p>You can also add <code>?code=</code> to the URL followed by the text or code that you want to repeat. This is
