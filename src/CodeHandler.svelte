@@ -33,7 +33,7 @@
 
         // Add spaces to string to break it up for character-by-character playback
         slowCode = theCode.replace(/(.{1})/g, "$1 ")
-        fullUrl = `${siteUrl}code=?${theCode}`
+        fullUrl = `${siteUrl}?code=${theCode}`
 
         utter.lang = "en-US"
         utter.text = `The code is ${slowCode}`
@@ -69,7 +69,7 @@
     // Handle input from form if no code is specified in URL
     function setCode(input) {
         theCode = input
-        fullUrl = `${siteUrl}code=?${theCode}`
+        fullUrl = `${siteUrl}?code=${theCode}`
     }
 
     // Reset the code to NONE and toggle isPlaying off if needed
